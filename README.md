@@ -12,4 +12,5 @@ Para iniciar el proyecto vamos a crear una cuena en github. A continuación les 
 ## Listado de participantes:
 
 - Daniel Guzman, dguzman-ort
+- Daniel Otero, DanielOter
 
