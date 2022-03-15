@@ -1,6 +1,7 @@
 # BE-NT2-2022-I-A
 Repositorio de la clase BE-NT2-2022-I-A
 
+
 # Consigna
 
 Para iniciar el proyecto vamos a crear una cuena en github. A continuación les dejo la siguiente consigna:
@@ -13,4 +14,4 @@ Para iniciar el proyecto vamos a crear una cuena en github. A continuación les 
 
 - Daniel Guzman, dguzman-ort
 - Fernando Valls, FdValls 
-
+- Juan Dubie, dubiejuan
