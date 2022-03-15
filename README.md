@@ -10,3 +10,5 @@ Para iniciar el proyecto vamos a crear una cuena en github. A continuación les 
 - Hacer un Pull Request de sus repositorios (a partir del fork) a la rama `main` del repositorio de la clase
 
 ## Listado de participantes:
+
+- Daniel Guzman, dguzman-ort
