@@ -17,4 +17,5 @@ Para iniciar el proyecto vamos a crear una cuena en github. A continuación les 
 - Juan Dubie, dubiejuan
 - Daniel Otero, DanielOter
 - Gabriel Ligresti, gligresti
+- Ian Botella, ianbotella
 - Emiliano Soto, esoto2021
