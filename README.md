@@ -15,6 +15,7 @@ Para iniciar el proyecto vamos a crear una cuena en github. A continuación les 
 - Daniel Guzman, dguzman-ort
 - Fernando Valls, FdValls 
 - Juan Dubie, dubiejuan
+- Elyelin Carrasquero, elyelin
 - Daniel Otero, DanielOter
 - Gabriel Ligresti, gligresti
 - Ian Botella, ianbotella
