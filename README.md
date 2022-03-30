@@ -23,3 +23,4 @@ Para iniciar el proyecto vamos a crear una cuena en github. A continuación les 
 - Ian Botella, ianbotella
 - Emiliano Soto, esoto2021
 - Maurivio Villarroeld, mauroivd
+- Kenaan Chab, kenancha
