@@ -24,3 +24,4 @@ Para iniciar el proyecto vamos a crear una cuena en github. A continuación les 
 - Emiliano Soto, esoto2021
 - Maurivio Villarroeld, mauroivd
 - Kenaan Chab, kenancha
+- Adriana Balbuena, adribalbvena
