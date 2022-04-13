@@ -117,7 +117,17 @@
  })
  console.log(CAA)
  
+ // otro ejemplo
+
  
+const tarea = contactos.reduce((acc, item) => {
+  if (!acc[item.nombreCompleto[0]]) acc[item.nombreCompleto[0]] = []
+  acc[item.nombreCompleto[0]].push(item)
+  return acc
+
+}, {})
+
+console.log(tarea)
  
  
  
