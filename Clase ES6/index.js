@@ -5,7 +5,9 @@ import './style.css';
 //import './stack'
 //import './funciones_encoladas'
 //import './stackoverflow'
-import './callbacks'
+//import './callbacks'
+//import './promises-1.js'
+import './promises-2.js'
 
 /**
  * Ejercicios 
